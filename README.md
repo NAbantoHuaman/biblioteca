@@ -408,18 +408,3 @@ Para probar endpoints protegidos en Swagger:
 
 ---
 
-## 👥 Autores
-
-| Integrante | Rol |
-|:---|:---|
-| Integrante 1 | Desarrollo Backend |
-| Integrante 2 | Desarrollo Backend |
-| Integrante 3 | Desarrollo Backend |
-
-**Institución**: IDAT — Escuela de Tecnología
-
----
-
-## 📝 Licencia
-
-Este proyecto fue desarrollado como trabajo académico para el curso de desarrollo backend con Spring Boot.
